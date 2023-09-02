@@ -17,7 +17,7 @@
             
             <?php
             mysqli_report(MYSQLI_REPORT_OFF);
-            $conn = new mysqli("localhost", "id20554322_jpero","+zzCcI9ksKttgH&c","id20554322_cs697aqdb");
+            $conn = new mysqli("localhost", "id21214215_jpero","Quackity2023!","id21214215_products");
             
             if ($conn->connect_error) {
                 die("Connection failed: " . $conn->connect_error);
